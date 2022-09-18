@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233" height="70" viewBox="0 0 233 70">
+  <g id="Group_9420" data-name="Group 9420" transform="translate(-0.334)">
+    <rect id="button" width="233" height="70" rx="8" transform="translate(0.334)" fill="#090a0d"/>
+    <text id="Download_on_the" data-name="Download on the" transform="translate(74.334 23)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.01em"><tspan x="0" y="0">GET IT ON</tspan></text>
+    <text id="App_Store" data-name="App Store" transform="translate(74.334 53)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Google Play</tspan></text>
+    <path id="logo" d="M0,38.2V2.809A3.13,3.13,0,0,1,1.712,0l19.97,20.5L1.7,41A3.13,3.13,0,0,1,0,38.2ZM23.4,22.262,28.018,27,6.182,39.937ZM25.124,20.5,30.2,15.291,34.8,18.021a3.173,3.173,0,0,1,.033,4.935L30.2,25.706ZM6.195,1.068,28.014,14,23.4,18.73Z" transform="translate(20.334 13)" fill="#fff"/>
+  </g>
+</svg>

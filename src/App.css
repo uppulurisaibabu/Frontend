@@ -1049,6 +1049,9 @@ align-items: center;
 margin-top: 50px;
 }
 
+/*.address{
+margin-top: 50px;
+}*/
 
 .aboutblog{
 display: flex;
@@ -1062,3 +1065,4 @@ width: 100%;
 }
 
 }
+
